@@ -1,8 +1,7 @@
 # Aplicativo Básico usando React Native e Firebase 
 ## Descrição
 
-Este projeto tem como objetivo consolidar conhecimentos sobre a integração do React Native com o Firebase, utilizei o Expo Go para visualizar o aplicativo via meu smartphone. A ideia surgiu da necessidade de desenvolver um aplicativo para uma disciplina da faculdade. Neste repositório, generalizei os principais códigos do projeto para facilitar o aprendizado e a reutilização.
-
+Este projeto tem como objetivo consolidar conhecimentos sobre a integração do React Native com o Firebase, [seguindo este tutorial](https://www.freecodecamp.org/portuguese/news/como-criar-uma-aplicacao-em-react-native-app-and-integrate-e-integra-la-com-firebase/).
 ## Índice
 
 - [Tecnologias Usadas](#instalação)
